@@ -1,14 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        // Задание 1
-        //  int age = 18;
-      //  if (age >=18){
-
-       // System.out.println("возраст совершеннолетия ещё не наступил, и нужно немного подождать");
-   // }
-
-
-                // первая задача
+        
+       
+                      // первая задача
                 var dog = 8;
                 System.out.println(dog);
                 var cat = 3.6;
